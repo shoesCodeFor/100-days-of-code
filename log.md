@@ -16,3 +16,11 @@
 
 
 **Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
+
+### Day 2: January 15, 2017
+
+**Today's Progress**: I have a working demo now :)  The function selects one of six css classes based on the time of day and swaps them within the '.timeBackground' class.  
+
+**Thoughts**:  I learned a new way of passing optional arguments through ES6 <a href="http://es6-features.org/#DefaultParameterValues">http://es6-features.org/#DefaultParameterValues</a> and it made me think that I should focus my energies on learning Angular 2 and ES6 rather than older JS tutorials.  Moving forward it would be neat to create a page that will generate code with custom colors and times that will produce custom CSS/JS. 
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
