@@ -24,3 +24,11 @@
 **Thoughts**:  I learned a new way of passing optional arguments through ES6 <a href="http://es6-features.org/#DefaultParameterValues">http://es6-features.org/#DefaultParameterValues</a> and it made me think that I should focus my energies on learning Angular 2 and ES6 rather than older JS tutorials.  Moving forward it would be neat to create a page that will generate code with custom colors and times that will produce custom CSS/JS. 
 
 **Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
+
+### Day 3: January 16, 2017
+
+**Today's Progress**: I went to a hackathon for CodeForDenver.  I wasn't much help to the teams but learned so much.  I also worked on my tour-of-heroes Angular App to integrate it into another project I am working on.
+
+**Thoughts**:  Somedays I feel like I am truly starting from scratch.  Some of the advanced web apps I saw tonight makes me realize I need to pick up the pace on my learning speed.
+
+** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
