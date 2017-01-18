@@ -32,3 +32,11 @@
 **Thoughts**:  Somedays I feel like I am truly starting from scratch.  Some of the advanced web apps I saw tonight makes me realize I need to pick up the pace on my learning speed.
 
 ** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
+
+### Day 3: January 17, 2017
+
+**Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
+
+**Thoughts**:  Forge ahead.
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
