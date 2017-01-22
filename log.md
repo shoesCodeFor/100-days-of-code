@@ -34,18 +34,43 @@
 ** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
 
 <<<<<<< HEAD
-### Day 3: January 17, 2017
+### Day 4: January 17, 2017
 
 **Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode bot told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
 
 **Thoughts**:  Forge ahead.
 
 **Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
-=======
-### Day ?? January 20, 2017
+
+### Day 5: January 18, 2017
+
+**Today's Progress**: Worked on an old project.  It's a basic pixel painter I learned in an Intro to JS.  I added some viewport stuff and randomColor generator.  
+
+**Thoughts**:  I need to keep a better log.
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/pixelPainter">JSTools/pixelPainter</a>
+
+### Day 6: January 19, 2017
+
+**Today's Progress**: Fixed time builder background.  I am trying to make a demo so that you can view changes in real time.  
+
+**Thoughts**:  I need to setup a user page on Github pages so that it will generate a zip with CSS code.
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
+
+### Day 7: January 20, 2017
 
 **Today's Progress**: Worked on a search tool for Blairs FFL Scoreboard.  I would like to use some kind of autocomplete to suggest player names out of the json file that is being searched.  More on that tomorrow.  Also would like to start making all of the pieces fit into a single page style app.
 
 **Thoughts**:  Better do a little digging on some jQuery autocomplete for tomorrow.
 We lost a push somewhere.  :( FML
->>>>>>> origin/master
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/BlairsFFL_Dashboard/tree/master/Pi/Web_Interface">FFL_DashBoard/Web Interface</a>
+
+### Day 8: January 21, 2017
+
+**Today's Progress**: Still working on the search tools for the FFL scoreboard.  Not too much progress.  Lots of code cleanup.  Autocomplete is a little far out right now.  The array has 16k entries and so I think its breaking.
+
+**Thoughts**:  I got my wisdom teeth out two days ago and it has thrown my logging and coding into disarray.  WTF.
+
+**Link to work:** <a href="https://github.com/shoesCodeFor/BlairsFFL_Dashboard/tree/master/Pi/Web_Interface">FFL_DashBoard/Web Interface</a>
