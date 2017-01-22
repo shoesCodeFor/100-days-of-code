@@ -35,7 +35,7 @@
 
 ### Day 3: January 17, 2017
 
-**Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
+**Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode bot told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
 
 **Thoughts**:  Forge ahead.
 
