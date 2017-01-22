@@ -33,6 +33,7 @@
 
 ** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
 
+<<<<<<< HEAD
 ### Day 3: January 17, 2017
 
 **Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode bot told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
@@ -40,3 +41,11 @@
 **Thoughts**:  Forge ahead.
 
 **Link to work:** <a href="https://github.com/shoesCodeFor/jsTools/tree/master/timeBackground">JSTools/timeBackground</a>
+=======
+### Day ?? January 20, 2017
+
+**Today's Progress**: Worked on a search tool for Blairs FFL Scoreboard.  I would like to use some kind of autocomplete to suggest player names out of the json file that is being searched.  More on that tomorrow.  Also would like to start making all of the pieces fit into a single page style app.
+
+**Thoughts**:  Better do a little digging on some jQuery autocomplete for tomorrow.
+We lost a push somewhere.  :( FML
+>>>>>>> origin/master
