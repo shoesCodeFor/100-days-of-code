@@ -32,3 +32,10 @@
 **Thoughts**:  Somedays I feel like I am truly starting from scratch.  Some of the advanced web apps I saw tonight makes me realize I need to pick up the pace on my learning speed.
 
 ** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
+
+### Day ?? January 20, 2017
+
+**Today's Progress**: Worked on a search tool for Blairs FFL Scoreboard.  I would like to use some kind of autocomplete to suggest player names out of the json file that is being searched.  More on that tomorrow.  Also would like to start making all of the pieces fit into a single page style app.
+
+**Thoughts**:  Better do a little digging on some jQuery autocomplete for tomorrow.
+We lost a push somewhere.  :( FML
