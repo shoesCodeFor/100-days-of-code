@@ -82,3 +82,13 @@ We lost a push somewhere.  :( FML
 **Thoughts**:  I should have used Wes's CSS but I think making my own will be more fun.  
 
 **Link to work:** <a href="https://github.com/shoesCodeFor/tutorials/tree/master/JS/DrumKit">tutorials/JS/DrumKit</a>
+
+### Day 10: January 23, 2017
+
+**Today's Progress**: Worked on day 2 of JS30 and leaned that using const for element control is common amongst the pros.
+
+**Thoughts**:  I need to relax sometimes.  My frustration allows me to miss very obvious and simple mistakes.  
+
+**Link to work**: 
+
+https://shoescodefor.github.io/tutorials/JS/TimeClock/index.html
