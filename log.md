@@ -92,3 +92,14 @@ We lost a push somewhere.  :( FML
 **Link to work**: 
 
 https://shoescodefor.github.io/tutorials/JS/TimeClock/index.html
+
+### Day 11: January 24, 2017
+
+**Today's Progress**: Worked on day 23 of JS30 and learned a lot about CSS vars.  I did not know you could change them in JS.  This is exciting.
+
+**Thoughts**:  Baby steps I guess.  Lot of HW going on :(
+
+**Link to work**: 
+
+https://shoescodefor.github.io/tutorials/JS/CSSVarsWithCSS/index.html
+
