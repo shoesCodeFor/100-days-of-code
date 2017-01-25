@@ -101,5 +101,5 @@ https://shoescodefor.github.io/tutorials/JS/TimeClock/index.html
 
 **Link to work**: 
 
-https://shoescodefor.github.io/tutorials/JS/CSSVarsWithCSS/index.html
+https://shoescodefor.github.io/tutorials/JS/CSSVarsWithJS/index.html
 
