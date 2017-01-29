@@ -85,7 +85,7 @@ We lost a push somewhere.  :( FML
 
 ### Day 10: January 23, 2017
 
-**Today's Progress**: Worked on day 2 of JS30 and leaned that using const for element control is common amongst the pros.
+**Today's Progress**: Worked on day 2 of JS30 and learned that using const for element control is common amongst the pros.
 
 **Thoughts**:  I need to relax sometimes.  My frustration allows me to miss very obvious and simple mistakes.  
 
@@ -95,11 +95,34 @@ https://shoescodefor.github.io/tutorials/JS/TimeClock/index.html
 
 ### Day 11: January 24, 2017
 
-**Today's Progress**: Worked on day 23 of JS30 and learned a lot about CSS vars.  I did not know you could change them in JS.  This is exciting.
+**Today's Progress**: Worked on day 3 of JS30 and learned a lot about CSS vars.  I did not know you could change them in JS.  This is exciting.
 
 **Thoughts**:  Baby steps I guess.  Lot of HW going on :(
 
 **Link to work**: 
 
 https://shoescodefor.github.io/tutorials/JS/CSSVarsWithJS/index.html
+
+
+### Day 12: January 25, 2017
+
+**Today's Progress**: Worked on Blairs FFL Scoreboard. Made some functions to receive our JSON team objects.
+
+**Thoughts**: Just trying to wrap my head around some basic python stuff like the difference between arrays and lists.  
+
+https://github.com/shoesCodeFor/BlairsFFL_Dashboard/tree/master/Pi/Web_Interface">FFL_DashBoard/Web Interface
+
+### Day 13: January 26, 2017
+
+**Today's Progress**: Array cardio for the JS30 Day 4.
+Filter, Map, Sort, Reduce and repeat.  Pretty useful for sure. I see this skill requirement on ever JS front end job around.  I can understand why.
+
+**Thought's**: console.table() is the best thing I learned all day. 
+
+https://shoescodefor.github.io/tutorials/JS/ArrayCardio/index.html
+
+### Day 14: January 27, 2017
+
+
+
 
