@@ -124,20 +124,26 @@ https://shoescodefor.github.io/tutorials/JS/ArrayCardio/index.html
 
 ### Day 14: January 27, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Functions in Python - I'm not really good with Python so I'm forcing some exposure.  Today I worked on parsing JSON objects and passing them into a function.  
 
-**Thought's**: 
+**Thought's**: So far so good.  It seems like Python has so many libraries that it might be the most universally appliable language.  I should learn more.
+
+Progress:
+https://github.com/shoesCodeFor/BlairsFFL_Dashboard/blob/master/Pi/Python/test.py
 
 ### Day 15: January 28, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Another night at code fights.  I did a challenge with array matching. 
 
-**Thought's**: 
+**Thought's**: I lost again in this battle but I like this style of practicing more than doing tutorials.  It seems more fun
+
 ### Day 16: January 29, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Trying to fix the searchPlayer.html page in our FFL project.  I can search by first name or last name but not both in conjunction. 
 
-**Thought's**: 
+**Thought's**: I need to figure out a better way to create these lists for the autocomplete.
+
+https://github.com/shoesCodeFor/BlairsFFL_Dashboard/tree/master/Pi/Web_Interface/searchPlayer.html
 
 ### Day 17: January 30, 2017
 
@@ -146,21 +152,25 @@ https://shoescodefor.github.io/tutorials/JS/ArrayCardio/index.html
 **Thought's**: 
 ### Day 18: January 31, 2017
 
-**Today's Progress**: 
+**Today's Progress**: A crash course on Magento e-commerce.   This is not really programming per se.  Mostly just read documentation on their API.  Magento 2 seems like a legitimate product.
 
-**Thought's**: 
+**Thought's**: I am still trying to appreciate why Magento is so popular.  Maybe it is a better solution at scale.  I have procduced similar solutions with less complications with WordPress + WooCommerce.
+
+http://florasync.org/store
 
 ### Day 19: February 1, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Did some HTTP get requests on the NFL Fantasy API.  Got some pretty amazing results on player lists.  I will try and use this for the FFL project.
 
-**Thought's**: 
+**Thought's**: We've been using the BurntSushi/nflgame Python module for this project.  I much better programmer than myself suggested that this was not good practice because we are relying on a non-official party to provide data.
+
 
 ### Day 20: February 2, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Some tinkering with the Quickbooks API.  I decided to go this route instead of Magento.  I am confident that I can build a basic sync tool for QBO and PHP e-commerce stores. 
 
-**Thought's**: 
+**Thought's**: This is gonna get ugly.
+
 ### Day 21: February 3, 2017
 
 **Today's Progress**: 
@@ -173,19 +183,19 @@ https://shoescodefor.github.io/tutorials/JS/ArrayCardio/index.html
 **Thought's**: 
 ### Day 23: February 5, 2017
 
-**Today's Progress**: 
-
-**Thought's**: 
-### Day 24: February 6, 2017
-
-**Today's Progress**: 
-
-**Thought's**: 
-
-### Day 25: February 7, 2017
-
 **Today's Progress**: Android App programming.  Mixed results.  I created an additional view for my Bio page and it broke the app. Something to do with using the default layout as a template and the views go on top of the default.  
 
 **Thought's**:  I think I misunderstood the concept of the MVC in Android. Fixing
 
 No Link today.  I'll push when I get the build to work.
+
+### Day 24: February 6, 2017
+
+**Today's Progress**: Fetch with Wes Bos on the JS30 track.  I haven't done one of these projects in a while.
+
+**Thought's**: Fetch is pretty neat.  I am still having issues applying any of this to the FFL project.  
+
+
+### Day 25: February 7, 2017
+
+
