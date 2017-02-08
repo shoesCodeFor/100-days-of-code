@@ -121,8 +121,71 @@ Filter, Map, Sort, Reduce and repeat.  Pretty useful for sure. I see this skill 
 
 https://shoescodefor.github.io/tutorials/JS/ArrayCardio/index.html
 
+
 ### Day 14: January 27, 2017
 
+**Today's Progress**: 
 
+**Thought's**: 
 
+### Day 15: January 28, 2017
 
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 16: January 29, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+
+### Day 17: January 30, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 18: January 31, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+
+### Day 19: February 1, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+
+### Day 20: February 2, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 21: February 3, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 22: February 4, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 23: February 5, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+### Day 24: February 6, 2017
+
+**Today's Progress**: 
+
+**Thought's**: 
+
+### Day 25: February 7, 2017
+
+**Today's Progress**: Android App programming.  Mixed results.  I created an additional view for my Bio page and it broke the app. Something to do with using the default layout as a template and the views go on top of the default.  
+
+**Thought's**:  I think I misunderstood the concept of the MVC in Android. Fixing
+
+No Link today.  I'll push when I get the build to work.
