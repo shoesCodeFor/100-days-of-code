@@ -166,21 +166,24 @@ http://florasync.org/store
 
 
 ### Day 20: February 2, 2017
-
 **Today's Progress**: Some tinkering with the Quickbooks API.  I decided to go this route instead of Magento.  I am confident that I can build a basic sync tool for QBO and PHP e-commerce stores. 
 
 **Thought's**: This is gonna get ugly.
 
 ### Day 21: February 3, 2017
+**Today's Progress**: Tried to clean up an old class project.  I did all the coding on this web app but it is still very unfinished. I tried to make some tables fill in for current schedules.
 
-**Today's Progress**: 
+**Thought's**: It would be nice to scrape some data from the school to pull into our database so I have more data to look at.  I also need to build a dummy login so people can demo the site.
 
-**Thought's**: 
+http://coursehunter.x10host.com/alpha/
+
 ### Day 22: February 4, 2017
+**Today's Progress**: Worked on nodeMCU.  I had some issues getting the board to program.  Used an arduino to flash the new nodeMCU firmware.  
 
-**Today's Progress**: 
+**Thoughts**:  THe knockoff microcontrollers are not worth the money.  Adafruit makes a better version of this for $15 but I bought 3 of the nodeMCUs for the same price.  It's hard to argue with those economics. 
 
-**Thought's**: 
+**Thought's**: As I release FloraSync builds on a larger scale I will suggest Adafruit's stuff because it will be less work on the users. 
+
 ### Day 23: February 5, 2017
 
 **Today's Progress**: Android App programming.  Mixed results.  I created an additional view for my Bio page and it broke the app. Something to do with using the default layout as a template and the views go on top of the default.  
@@ -199,5 +202,7 @@ No Link today.  I'll push when I get the build to work.
 ### Day 25: February 7, 2017
 **Today's Progress**:  None really.  I spent 2 hours trying to rework my search player tool with the fetch function I learned yesterday.  
 **Thought's Progress**: I think the structure of my JSON is throing me off.  I need to drill down to layers into the object before extracting the elements within.  In java this would be easy by calling the 3d array <code>arrayName[0][get these ones]  Looks like I need to read more on JS parsing
+
+https://github.com/shoesCodeFor/BlairsFFL_Dashboard
 
 
