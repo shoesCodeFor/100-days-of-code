@@ -197,5 +197,7 @@ No Link today.  I'll push when I get the build to work.
 
 
 ### Day 25: February 7, 2017
+**Today's Progress**:  None really.  I spent 2 hours trying to rework my search player tool with the fetch function I learned yesterday.  
+**Thought's Progress**: I think the structure of my JSON is throing me off.  I need to drill down to layers into the object before extracting the elements within.  In java this would be easy by calling the 3d array <code>arrayName[0][get these ones]  Looks like I need to read more on JS parsing
 
 
