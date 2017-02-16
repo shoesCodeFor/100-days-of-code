@@ -147,12 +147,14 @@ https://github.com/shoesCodeFor/BlairsFFL_Dashboard/tree/master/Pi/Web_Interface
 
 ### Day 17: January 30, 2017
 
-**Today's Progress**: 
+**Today's Progress**: More attempts at code fights.  I keep losing but it is making me realize that I am not as far along as I want to be.  I have partially finished all of the challenges in my battle.  Better than last time.
 
-**Thought's**: 
+**Thought's**: I have to work harder on the coding side of things.  I am exhausted from school, but I know if I want a development job straight out of school I will have to up my game.  
+
+
 ### Day 18: January 31, 2017
 
-**Today's Progress**: A crash course on Magento e-commerce.   This is not really programming per se.  Mostly just read documentation on their API.  Magento 2 seems like a legitimate product.
+**Today's Progress**: A crash course on Magento e-commerce.   This is not really programming per se.  Mostly just read documentation on their API.  Magento 2 seems like a legitimate product.  
 
 **Thought's**: I am still trying to appreciate why Magento is so popular.  Maybe it is a better solution at scale.  I have procduced similar solutions with less complications with WordPress + WooCommerce.
 
@@ -168,7 +170,7 @@ http://florasync.org/store
 ### Day 20: February 2, 2017
 **Today's Progress**: Some tinkering with the Quickbooks API.  I decided to go this route instead of Magento.  I am confident that I can build a basic sync tool for QBO and PHP e-commerce stores. 
 
-**Thought's**: This is gonna get ugly.
+**Thought's**: This is gonna get ugly.  Note:  I tinkered with this a little more and got some pretty descent requests from their sandbox company.  It's pretty far fetched now but I think it would be worth the invested time to build a basic web app that integrates with WooCommerce and QBO.  
 
 ### Day 21: February 3, 2017
 **Today's Progress**: Tried to clean up an old class project.  I did all the coding on this web app but it is still very unfinished. I tried to make some tables fill in for current schedules.
@@ -180,9 +182,7 @@ http://coursehunter.x10host.com/alpha/
 ### Day 22: February 4, 2017
 **Today's Progress**: Worked on nodeMCU.  I had some issues getting the board to program.  Used an arduino to flash the new nodeMCU firmware.  
 
-**Thoughts**:  THe knockoff microcontrollers are not worth the money.  Adafruit makes a better version of this for $15 but I bought 3 of the nodeMCUs for the same price.  It's hard to argue with those economics. 
-
-**Thought's**: As I release FloraSync builds on a larger scale I will suggest Adafruit's stuff because it will be less work on the users. 
+**Thoughts**:  THe knockoff microcontrollers are not worth the money.  Adafruit makes a better version of this for $15 but I bought 3 of the nodeMCUs for the same price.  It's hard to argue with those economics.  As I release FloraSync builds on a larger scale I will suggest Adafruit's stuff because it will be less work on the users. 
 
 ### Day 23: February 5, 2017
 
@@ -201,8 +201,32 @@ No Link today.  I'll push when I get the build to work.
 
 ### Day 25: February 7, 2017
 **Today's Progress**:  None really.  I spent 2 hours trying to rework my search player tool with the fetch function I learned yesterday.  
-**Thought's Progress**: I think the structure of my JSON is throing me off.  I need to drill down to layers into the object before extracting the elements within.  In java this would be easy by calling the 3d array <code>arrayName[0][get these ones]  Looks like I need to read more on JS parsing
+**Thought's**: I think the structure of my JSON is throing me off.  I need to drill down to layers into the object before extracting the elements within.  In java this would be easy by calling the 3d array <code>arrayName[0][get these ones]  Looks like I need to read more on JS parsing.</code>
 
-https://github.com/shoesCodeFor/BlairsFFL_Dashboard
+<a href="https://github.com/shoesCodeFor/BlairsFFL_Dashboard">Blairs FFL Dashboard</a>
+
+### Day 26: February 8, 2017
+**Today's Progress**:  More on the node MCU.  I learned about what analogWrite really does in Arduino.  Tried to figure out why my sensor would not work.  
+
+**Thought's**: 
+
+### Day 27: February 9, 2017
+**Today's Progress**:  I was wrong about my methods yesterday.  Today they worked like a charm.  I used the analogWrite function (which enable pulse width modulation on arduino) to limit the amount of voltage going to my sensor and in turn limiting the voltage to the Analog pin on the nodeMCU (its limit is 1 volt).
+
+**Thought's**: Figured out my issue yesterday was a bad lead on my board.  SOLDER EVERYTHING!!!  Moving forward I will try and make this more precise and add some kind of protection for the sensor.  
+
+
+### Day 28: February 10, 2017
+**Today's Progress**:  Today I worked on getting some data from a live server to the node.  There is an amazing library and I was able to get some dummy data from my server and parse it into a C++ object. (that sounds weird)
+
+**Thought's Progress**:  Really excited about the progress today.  These mcu's are ideal for my project.  Before I was trying to integrate an RF24 radio and had lots of issues with connectivity.  Also I truly feel like all software is built on the backs of giants. THe library I used today is built out of the love of coding.  Pretty awesome.  
+
+<a href="https://github.com/bblanchon/ArduinoJson">Link to the Arduino JSON library by BBlanchon</a>
+Need to push all my node work
+
+### Day 29: February 11, 2017
+**Today's Progress**:  Started some practice problems at CodinGame.com.  I was getting frustrated with being terrible at CodeFights.  Today I did one excercise and it took about an hour and a half.
+
+**Thought's Progress**:  The structure of these challenges is ideal for me.  I noticed today that a little noticable progress like the leveling up in the games helps keep me going.  I am swamped with school right now and it is hard to code for 'leisure' for an hour a day.
 
 
