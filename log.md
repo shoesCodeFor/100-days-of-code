@@ -227,6 +227,32 @@ Need to push all my node work
 ### Day 29: February 11, 2017
 **Today's Progress**:  Started some practice problems at CodinGame.com.  I was getting frustrated with being terrible at CodeFights.  Today I did one excercise and it took about an hour and a half.
 
-**Thought's Progress**:  The structure of these challenges is ideal for me.  I noticed today that a little noticable progress like the leveling up in the games helps keep me going.  I am swamped with school right now and it is hard to code for 'leisure' for an hour a day.
+**Thoughts:  The structure of these challenges is ideal for me.  I noticed today that a little noticable progress like the leveling up in the games helps keep me going.  I am swamped with school right now and it is hard to code for 'leisure' for an hour a day.
 
+### Day 30: February 12th, 2017
+**Today's Progress**: More at CodinGame.  Solved one problem but it took me forever.  I switched from JS to Java for my final solution.
 
+**Thoughts**:  There is more than one way to skin a cat and who ever came up with that expression is sick in the head.  I will try and solve the second problem I started today tomorrow.  
+
+### Day 30: February 13th, 2017
+**Today's progress**:  It was painful today.  I spent 3 hours on the Chuck Norris Problem and I couldn't get anything to work.  
+
+**Thoughts**:  Maybe I need to scrap everything.  Sometimes that scares me after 3 plus hours coding on something.  
+
+### Day 31: February 14th, 2017
+**Today's Progress**: Started on some PHP for a project I had over the summer.  I am using the PHP 7 Docs to build classes for an API.  I built one small class for another part of the project.  Also spent some time on Codingame again.
+
+**Thoughts**: I finally understand the idea of abstraction or at least why it is good in principle.  My thoughts on security were always that if someone wanted to hack your site(as a freelance dev) they would find you CPanel login and dump your DB tables.  I am finally realizing on scalable apps and enterprise level development they have security teams that protect that side of Info Systems.  As an engineer you are supposed to ensure there are no holes in your work.   
+
+I don't mean to sound arrogant in the last part.  It is really quite the opposite.  I have never appreciated how difficult it is to implement good security and authentication and now most frameworks obscure passwords so a hack would have to use the apps own tech to extract data in a modern attack. 
+
+### Day 32: February 15th, 2017
+**Today's Progress**: I tried to get a Laravel blog going.  I got the page installed and created some changes on the Welcome view, but then I could not get the app to change routes.  
+
+**Thoughts** I think something in Wordpress's .htaccess file prevents the routes from going through properly.  It will forward from the default page to my welcome view but when go to a route directly it 404s from my Wordpress install 2 folders it parent.  Throughly confused.  I'll try this again on a fresh server next time(probably a Pi).
+
+## Day 33:  February 16th, 2017
+**Today's Progress** I completed a couple easy puzzles on CodeFights.com.  
+
+**Thoughts**  I should really stick to less than 3 languages.  I think I get a little lost in all the syntax.  I know that there are equivalents in almost all languages know.  I wasted 45 minuted and had 20+ lines of code trying to solve a problem today.  Eventually I solved the same problem with 5 lines of Java.  JavaScript totally screws with my brain and its loose data types.  I had a test yesterday on Oracle PL/SQL for my Advanced Database Managment class and wrote <code>DBMS_OUTPUT.println()</code>
+in my program.  My brain shorted out and made some weird PLSQL/JAVA hybrid.  He didn't notice but I did. :( 
