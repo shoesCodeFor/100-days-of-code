@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 17, 2017
+
+**Today's Progress**: Awesome day in my project world.  Mixed day in the professional one.  I successfully implemented Clef.io into my PHP app.  Pretty pumped.  At work I had some more headaches with Quickbook and Intuit's software in general. 
+
+**Thought's**: For some reason it is a huge load off now FloraSync has a descent authentication method.  I don't actually want to keep any data for FloraSync.  I think the optionally loaded user data will be the most useful.
+
+http://florasync.org/index.php   
+
+Login at your own perl(Jk its just a page to nowhere).  The site is not ready.
+Here is my landing page.
+
+http://florasync.org/index.html 
+
 ### Day 0: January 13, 2017
 
 **Today's Progress**:  Mixed success.  'buildButton.js' is working.  It creates button elements for Bootstrap with a glyphicon. I thought this would take me less than an hour but I got hung up on some of the built in JS methods.  Seems like it is functional enough for today.  Future improvements would be including an input string for an 'onclick()' event.
