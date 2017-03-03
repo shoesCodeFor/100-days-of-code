@@ -1,4 +1,11 @@
 
+
+## Failed Attempt 1 January 13th - February 17th 2017
+I will have to restart the challenge.  I got sucked into a work project and I have spent alot of time using tools to implement code rather than writing it :( RIP Session 1
+
+I should also note I am coding every day, but not within the specs of the challenge(meaning not an hour for leisure).  
+
+
 ### Day 0: January 13, 2017
 
 **Today's Progress**:  Mixed success.  'buildButton.js' is working.  It creates button elements for Bootstrap with a glyphicon. I thought this would take me less than an hour but I got hung up on some of the built in JS methods.  Seems like it is functional enough for today.  Future improvements would be including an input string for an 'onclick()' event.
