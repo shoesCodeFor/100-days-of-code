@@ -1,17 +1,3 @@
-# 100 Days Of Code - Log
-
-### Day 34: February 17, 2017
-
-**Today's Progress**: Awesome day in my project world.  Mixed day in the professional one.  I successfully implemented Clef.io into my PHP app.  Pretty pumped.  At work I had some more headaches with Quickbook and Intuit's software in general. 
-
-**Thought's**: For some reason it is a huge load off now FloraSync has a descent authentication method.  I don't actually want to keep any data for FloraSync.  I think the optionally loaded user data will be the most useful.
-
-http://florasync.org/index.php   
-
-Login at your own perl(Jk its just a page to nowhere).  The site is not ready.
-Here is my landing page.
-
-http://florasync.org/index.html 
 
 ### Day 0: January 13, 2017
 
@@ -269,3 +255,18 @@ I don't mean to sound arrogant in the last part.  It is really quite the opposit
 
 **Thoughts**  I should really stick to less than 3 languages.  I think I get a little lost in all the syntax.  I know that there are equivalents in almost all languages know.  I wasted 45 minuted and had 20+ lines of code trying to solve a problem today.  Eventually I solved the same problem with 5 lines of Java.  JavaScript totally screws with my brain and its loose data types.  I had a test yesterday on Oracle PL/SQL for my Advanced Database Managment class and wrote <code>DBMS_OUTPUT.println()</code>
 in my program.  My brain shorted out and made some weird PLSQL/JAVA hybrid.  He didn't notice but I did. :( 
+
+# 100 Days Of Code - Log
+
+### Day 34: February 17, 2017
+
+**Today's Progress**: Awesome day in my project world.  Mixed day in the professional one.  I successfully implemented Clef.io into my PHP app.  Pretty pumped.  At work I had some more headaches with Quickbook and Intuit's software in general. 
+
+**Thought's**: For some reason it is a huge load off now FloraSync has a descent authentication method.  I don't actually want to keep any data for FloraSync.  I think the optionally loaded user data will be the most useful.
+
+http://florasync.org/index.php   
+
+Login at your own peril(Jk its just a page to nowhere).  The site is not ready.
+Here is my landing page.
+
+http://florasync.org/index.html 
