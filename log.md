@@ -1,3 +1,10 @@
+## 100 Days of Code: Round 2
+
+### Day 0: May 12
+**Today's Progress:** Nothing yet.  I am just starting the log to make myself do this.  
+
+**Thoughts:** I have been coding everyday but not within the rules of the challenge.  Here we go again(and hopefully again and again).
+
 
 
 ## Failed Attempt 1 January 13th - February 17th 2017
