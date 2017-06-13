@@ -1,10 +1,11 @@
 ## 100 Days of Code: Round 2
 
-### Day 0: June 6th
-**Today's Progress:** Nothing yet.  I am just starting the log to make myself do this.  
+### Day 0: June 12th
+**Today's Progress:** Some updates on the first UI view of VetCalc.  Cleaned up some code for the ERMedsActivity.
 
 **Thoughts:** I have been coding everyday but not within the rules of the challenge.  Here we go again(and hopefully again and again).
-I think I am going to hammer out some VetCalc tonight.  
+Need to change my package names.  I will have to read on how to do this without blowing up the program.  Good thing we have version control :) 
+
 
 
 ## Failed Attempt 1 January 13th - February 17th 2017
