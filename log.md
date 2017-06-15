@@ -1,5 +1,12 @@
 ## 100 Days of Code: Round 2
 
+### Day 1: June 13th
+**Today's Progress:**  Started a new utility project.  QBOtoWoo is a tool I would like to create to help people sync their WooCommerce product inventory with Quickbooks Online.  Not very much progress today.  Had issues getting Composer to install on my dev environment.  I spent more time reading Composer docs than anything else today.
+
+**Thoughts:** I have issues with using the same environment for every project.  I think I need to limit the amount of languages I am trying to code in.  My brain feels a little scrambled with Composer after trying to learn NPM this week.
+
+https:/github.com/shoesCodeFor/QBOtoWoo/
+
 ### Day 0: June 12th
 **Today's Progress:** Some updates on the first UI view of VetCalc.  Cleaned up some code for the ERMedsActivity.
 
