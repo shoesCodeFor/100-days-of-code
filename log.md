@@ -1,4 +1,20 @@
 ## 100 Days of Code: Round 2
+### Day 3: June 15th 
+**Today's Progress**
+
+**Thoughts**
+
+### Day 3: June 15th 
+**Today's Progress**  Minimal progress today.  I worked a little bit on my Angular 4 Sales App. 45 Mins on QBOtoWoo.  
+
+**Thoughts:**  Going to have to make a lot of progress to hit my deadline tomorrow.  As I am writing down my thought for the 70th time I realize I should make a php post for this log file to make it easier :)  
+
+### Day 2: June 14th
+**Today's Progress:**  Got Composer to build the WooWrapper properly.  Now I am grabbing what attributes that I think I will need for an inventory sync(Price, Quantity on Hand, Backorder, SKU, ID).  
+
+**Thoughts:** Yesterday was frustrating.  Today was much better.  I got a lot of my components for the WooCommerce working.  I would like to have this done by Friday.(2 more days).  I was also thinking that I can keep the WooCommerce module separate for using it to model data for some other front-end like Angular or React.  
+
+https:/github.com/shoesCodeFor/QBOtoWoo/
 
 ### Day 1: June 13th
 **Today's Progress:**  Started a new utility project.  QBOtoWoo is a tool I would like to create to help people sync their WooCommerce product inventory with Quickbooks Online.  Not very much progress today.  Had issues getting Composer to install on my dev environment.  I spent more time reading Composer docs than anything else today.
