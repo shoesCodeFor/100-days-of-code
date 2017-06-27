@@ -8,11 +8,11 @@ https://github.com/shoesCodeFor/FarmersMarket
 
 ### Days 4-14 Were Spent on QBOtoWoo
 #### Improvements 
-..*  Connection to Woo and Product Fetching
-..*  API Key Storage
-..*  JSON to Native PHP Object
-..*  WooCommerce 'Product' Attribute mapped to PHP
-..*  Basic Connectivity to Quickbooks Online
+*  Connection to Woo and Product Fetching
+*  API Key Storage
+*  JSON to Native PHP Object
+*  WooCommerce 'Product' Attribute mapped to PHP
+*  Basic Connectivity to Quickbooks Online
 
 
 ### Day 3: June 15th 
