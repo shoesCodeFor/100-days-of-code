@@ -1,8 +1,10 @@
 ## 100 Days of Code: Round 2
-### Day 4: June 16th 
-**Today's Progress**
+### Day 15: June 27th 
+**Today's Progress** Worked on a new project.  A simple app to list local farmers markets.  I saw the tutorial on YouTube and decided to take a crack at it on my own once I had the docs for the USDA API.  Mixed results.  I had a lot of issues getting the form to submit.  Wasted time in my opinion.  Tomorrow I might look into how to write this in Angular.  Since its in demand and I am not good at it yet.
 
-**Thoughts**
+**Thoughts**  I decided not to through the baby out with the bathwater on the log.  I missed 10 days of logging not coding.  Which is what happened last time I quit the challenge.  I am good at coding everyday.  I am terrible at documenting it.  Documentation is after all, part of programming :( Hope tomorrow is better.  
+#### Link to work:
+https://github.com/shoesCodeFor/FarmersMarket
 
 ### Day 3: June 15th 
 **Today's Progress**  Minimal progress today.  I worked a little bit on my Angular 4 Sales App. 45 Mins on QBOtoWoo.  
