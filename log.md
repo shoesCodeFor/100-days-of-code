@@ -6,6 +6,15 @@
 #### Link to work:
 https://github.com/shoesCodeFor/FarmersMarket
 
+### Days 4-14 Were Spent on QBOtoWoo
+#### Improvements 
+..*  Connection to Woo and Product Fetching
+..*  API Key Storage
+..*  JSON to Native PHP Object
+..*  WooCommerce 'Product' Attribute mapped to PHP
+..*  Basic Connectivity to Quickbooks Online
+
+
 ### Day 3: June 15th 
 **Today's Progress**  Minimal progress today.  I worked a little bit on my Angular 4 Sales App. 45 Mins on QBOtoWoo.  
 
