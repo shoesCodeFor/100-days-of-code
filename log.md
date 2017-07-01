@@ -1,5 +1,32 @@
 ## 100 Days of Code: Round 2
-### Day 15: June 27th 
+### Day 17: June 30th 
+**Today's Progress** Did some documentaion on FarmersMarket in the hopes someone can use it for an excercise.  I also added a couple more Bootstrap classes to beautify the layout.  
+
+**Thoughts**  Need to finish this today AT ALL COSTS!!
+#### Link to work:
+https://github.com/shoesCodeFor/FarmersMarket
+
+### Day 17: June 29th 
+**Today's Progress** Hooray. Built constructor for single Farmers 'market'.  Then it is intantiated in the loop and passed to the appropriate function.  Results are displayed in a bootstrap table.
+
+**Thoughts**  I got really lucky.  I got an interview with MapQuest.  This in turn caused me to switch to the MapQUest API and have seen signifigant improvement because of my exciement.  
+#### Link to work:
+https://github.com/shoesCodeFor/FarmersMarket
+### Day 16: June 28th 
+**Today's Progress** Got all of JSON responsed to log into console correctly.  I am currently only storing responses in local vars.  Results are displaying in a pretty ugly unordered list.  
+
+**Thoughts**  Progress on this project has been pretty rough the last two days.  Also getting console errors from Google API
+#### Link to work:
+https://github.com/shoesCodeFor/FarmersMarket
+
+### Day 16: June 27th 
+**Today's Progress** Worked on filtering the results.  Need to store results in an object to I can pass it along to other function
+
+**Thoughts**  I need to keep a better codebase of tools.  I rember running into my same issue before with doing a fetch call.
+#### Link to work:
+https://github.com/shoesCodeFor/FarmersMarket
+
+### Day 15: June 28th 
 **Today's Progress** Worked on a new project.  A simple app to list local farmers markets.  I saw the tutorial on YouTube and decided to take a crack at it on my own once I had the docs for the USDA API.  Mixed results.  I had a lot of issues getting the form to submit.  Wasted time in my opinion.  Tomorrow I might look into how to write this in Angular.  Since its in demand and I am not good at it yet.
 
 **Thoughts**  I decided not to through the baby out with the bathwater on the log.  I missed 10 days of logging not coding.  Which is what happened last time I quit the challenge.  I am good at coding everyday.  I am terrible at documenting it.  Documentation is after all, part of programming :( Hope tomorrow is better.  
