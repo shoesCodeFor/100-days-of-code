@@ -8,7 +8,7 @@
 ** I will finish this **
 
 ## Failed attempt 2
-But hey I got a job offer in trying to finish Farmer's Market.  Here we go again
+But hey I got a job offer in trying to finish Farmer's Market so there's that :)  
 
 ### Day 17: June 30th 
 **Today's Progress** Did some documentaion on FarmersMarket in the hopes someone can use it for an excercise.  I also added a couple more Bootstrap classes to beautify the layout.  
