@@ -1,4 +1,4 @@
-### Day 0: July 18th, 2017
+### Day 0: July 19th, 2017
 **Today's Progress** 
 **Thoughts**  Here we go again...
 #### Link to work:
