@@ -1,7 +1,10 @@
-### Day 0: July 19th, 2017
-**Today's Progress** 
-**Thoughts**  Here we go again...
-#### Link to work:
+### Day 0: May 25th 2018
+
+**Today's Progress** Admitting failure and starting again.  
+
+**Thoughts** I've been coding a lot.  Not every single day, but very close to it.  Recently I've started a coding bootcamp at the University of Denver and I think it's time I finally finish this thing.  
+
+### Link to Work: 
 
 
 ### 100 Days of Code - Attempt 3
