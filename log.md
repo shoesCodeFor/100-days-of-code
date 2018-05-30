@@ -159,7 +159,6 @@ I should also note I am coding every day, but not within the specs of the challe
 
 ** No link to work tonight.  I will push the Angular app once I can get it to tanspile correctly. **
 
-<<<<<<< HEAD
 ### Day 4: January 17, 2017
 
 **Today's Progress**: I broke the timeBuilder plugin out of frustration.  So I think that is the opposite of what goes here.  The #100DaysOfCode bot told me that, "Arriving at one goal is the starting point to another."  I hope a person told them to say that because it's good!
@@ -362,8 +361,8 @@ Need to push all my node work
 
 ### Day 30: February 13th, 2017
 **Today's progress**:  It was painful today.  I spent 3 hours on the Chuck Norris Problem and I couldn't get anything to work.  
-
 **Thoughts**:  Maybe I need to scrap everything.  Sometimes that scares me after 3 plus hours coding on something.  
+---
 
 ### Day 31: February 14th, 2017
 **Today's Progress**: Started on some PHP for a project I had over the summer.  I am using the PHP 7 Docs to build classes for an API.  I built one small class for another part of the project.  Also spent some time on Codingame again.
@@ -371,6 +370,7 @@ Need to push all my node work
 **Thoughts**: I finally understand the idea of abstraction or at least why it is good in principle.  My thoughts on security were always that if someone wanted to hack your site(as a freelance dev) they would find you CPanel login and dump your DB tables.  I am finally realizing on scalable apps and enterprise level development they have security teams that protect that side of Info Systems.  As an engineer you are supposed to ensure there are no holes in your work.   
 
 I don't mean to sound arrogant in the last part.  It is really quite the opposite.  I have never appreciated how difficult it is to implement good security and authentication and now most frameworks obscure passwords so a hack would have to use the apps own tech to extract data in a modern attack. 
+---
 
 ### Day 32: February 15th, 2017
 **Today's Progress**: I tried to get a Laravel blog going.  I got the page installed and created some changes on the Welcome view, but then I could not get the app to change routes.  
