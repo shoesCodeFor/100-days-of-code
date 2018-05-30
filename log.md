@@ -46,9 +46,10 @@
 
 #### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
+---
 
 # 100 Days of Code - Attempt 3
-** I will finish this **
+**I will finish this**
 
 ---
 
