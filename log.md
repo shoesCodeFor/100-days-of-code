@@ -1,3 +1,27 @@
+### Day 3: May 28th 2018
+
+**Today's Progress** More templating on the gameboard.  Some minimal styling on the navbars.
+
+**Thoughts** I did not hit the full hour mark today.  I will work harder tomorrow.
+
+### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+### Day 2: May 27th 2018
+
+**Today's Progress** Logic JS file to handle keyup event listener.
+
+**Thoughts** Trying not to use any external help other then syntax help.  Coded a lot of this out of Wifi range and committed locally.  
+
+### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+### Day 1: May 26th 2018
+
+**Today's Progress** Some background animations in CSS using keyframes.
+
+**Thoughts** I've seen this effect on a lot of React based sites.  Kind of cool I know how to pull it off now. 
+
+### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
 ### Day 0: May 25th 2018
 
 **Today's Progress** Admitting failure and starting again.  Start coding rock paper scissors.  
@@ -7,7 +31,7 @@
 ### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
 
-### 100 Days of Code - Attempt 3
+# 100 Days of Code - Attempt 3
 ** I will finish this **
 
 ## Failed attempt 2
