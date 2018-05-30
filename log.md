@@ -370,6 +370,7 @@ Need to push all my node work
 **Thoughts**: I finally understand the idea of abstraction or at least why it is good in principle.  My thoughts on security were always that if someone wanted to hack your site(as a freelance dev) they would find you CPanel login and dump your DB tables.  I am finally realizing on scalable apps and enterprise level development they have security teams that protect that side of Info Systems.  As an engineer you are supposed to ensure there are no holes in your work.   
 
 I don't mean to sound arrogant in the last part.  It is really quite the opposite.  I have never appreciated how difficult it is to implement good security and authentication and now most frameworks obscure passwords so a hack would have to use the apps own tech to extract data in a modern attack. 
+
 ---
 
 ### Day 32: February 15th, 2017
