@@ -51,6 +51,7 @@ But hey I got a job offer in trying to finish Farmer's Market so there's that :)
 **Thoughts**  Need to finish this today AT ALL COSTS!!
 #### Link to work:
 https://github.com/shoesCodeFor/FarmersMarket
+---
 
 ### Day 17: June 29th 
 **Today's Progress** Hooray. Built constructor for single Farmers 'market'.  Then it is intantiated in the loop and passed to the appropriate function.  Results are displayed in a bootstrap table.
