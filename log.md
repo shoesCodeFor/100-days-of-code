@@ -1,6 +1,6 @@
 ### Day 4: May 29th 2018
 
-**Today's Progress** Trying to fit all the pieces on the gameboard.
+**Today's Progress** Trying to fit all the pieces on the gameboard for rock paper scissors.
 
 **Thoughts** I learned a bunch today at the DenverScript Meetup (React fragments).  I also need to deploy this as a Github pages.   
 
@@ -34,7 +34,7 @@
 
 **Thoughts** I've seen this effect on a lot of React based sites.  Kind of cool I know how to pull it off now. 
 
-### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
 ---
 
