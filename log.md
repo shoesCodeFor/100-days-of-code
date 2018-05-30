@@ -1,10 +1,10 @@
 ### Day 0: May 25th 2018
 
-**Today's Progress** Admitting failure and starting again.  
+**Today's Progress** Admitting failure and starting again.  Start coding rock paper scissors.  
 
 **Thoughts** I've been coding a lot.  Not every single day, but very close to it.  Recently I've started a coding bootcamp at the University of Denver and I think it's time I finally finish this thing.  
 
-### Link to Work: 
+### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
 
 ### 100 Days of Code - Attempt 3
