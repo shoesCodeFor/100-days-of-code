@@ -4,7 +4,9 @@
 
 **Thoughts** I learned a bunch today at the DenverScript Meetup (React fragments).  I also need to deploy this as a Github pages.   
 
-### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+---
 
 ### Day 3: May 28th 2018
 
@@ -12,7 +14,9 @@
 
 **Thoughts** I did not hit the full hour mark today.  I will work harder tomorrow.
 
-### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+---
 
 ### Day 2: May 27th 2018
 
@@ -20,7 +24,9 @@
 
 **Thoughts** Trying not to use any external help other then syntax help.  Coded a lot of this out of Wifi range and committed locally.  
 
-### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+----
 
 ### Day 1: May 26th 2018
 
@@ -30,17 +36,21 @@
 
 ### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
+---
+
 ### Day 0: May 25th 2018
 
 **Today's Progress** Admitting failure and starting again.  Start coding rock paper scissors.  
 
 **Thoughts** I've been coding a lot.  Not every single day, but very close to it.  Recently I've started a coding bootcamp at the University of Denver and I think it's time I finally finish this thing.  
 
-### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 
 
 # 100 Days of Code - Attempt 3
 ** I will finish this **
+
+---
 
 ## Failed attempt 2
 But hey I got a job offer in trying to finish Farmer's Market so there's that :)  
@@ -340,6 +350,8 @@ No Link today.  I'll push when I get the build to work.
 
 **Thought's**: Figured out my issue yesterday was a bad lead on my board.  SOLDER EVERYTHING!!!  Moving forward I will try and make this more precise and add some kind of protection for the sensor.  
 
+---
+
 
 ### Day 28: February 10, 2017
 **Today's Progress**:  Today I worked on getting some data from a live server to the node.  There is an amazing library and I was able to get some dummy data from my server and parse it into a C++ object. (that sounds weird)
@@ -349,10 +361,14 @@ No Link today.  I'll push when I get the build to work.
 <a href="https://github.com/bblanchon/ArduinoJson">Link to the Arduino JSON library by BBlanchon</a>
 Need to push all my node work
 
+---
+
 ### Day 29: February 11, 2017
 **Today's Progress**:  Started some practice problems at CodinGame.com.  I was getting frustrated with being terrible at CodeFights.  Today I did one excercise and it took about an hour and a half.
 
-**Thoughts:  The structure of these challenges is ideal for me.  I noticed today that a little noticable progress like the leveling up in the games helps keep me going.  I am swamped with school right now and it is hard to code for 'leisure' for an hour a day.
+**Thoughts**:  The structure of these challenges is ideal for me.  I noticed today that a little noticable progress like the leveling up in the games helps keep me going.  I am swamped with school right now and it is hard to code for 'leisure' for an hour a day.
+
+---
 
 ### Day 30: February 12th, 2017
 **Today's Progress**: More at CodinGame.  Solved one problem but it took me forever.  I switched from JS to Java for my final solution.
@@ -362,6 +378,7 @@ Need to push all my node work
 ### Day 30: February 13th, 2017
 **Today's progress**:  It was painful today.  I spent 3 hours on the Chuck Norris Problem and I couldn't get anything to work.  
 **Thoughts**:  Maybe I need to scrap everything.  Sometimes that scares me after 3 plus hours coding on something.  
+
 ---
 
 ### Day 31: February 14th, 2017
@@ -378,11 +395,15 @@ I don't mean to sound arrogant in the last part.  It is really quite the opposit
 
 **Thoughts** I think something in Wordpress's .htaccess file prevents the routes from going through properly.  It will forward from the default page to my welcome view but when go to a route directly it 404s from my Wordpress install 2 folders it parent.  Throughly confused.  I'll try this again on a fresh server next time(probably a Pi).
 
+---
+
 ## Day 33:  February 16th, 2017
 **Today's Progress** I completed a couple easy puzzles on CodeFights.com.  
 
 **Thoughts**  I should really stick to less than 3 languages.  I think I get a little lost in all the syntax.  I know that there are equivalents in almost all languages know.  I wasted 45 minuted and had 20+ lines of code trying to solve a problem today.  Eventually I solved the same problem with 5 lines of Java.  JavaScript totally screws with my brain and its loose data types.  I had a test yesterday on Oracle PL/SQL for my Advanced Database Managment class and wrote <code>DBMS_OUTPUT.println()</code>
 in my program.  My brain shorted out and made some weird PLSQL/JAVA hybrid.  He didn't notice but I did. :( 
+
+---
 
 # 100 Days Of Code - Log
 
