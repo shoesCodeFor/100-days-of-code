@@ -1,3 +1,11 @@
+### Day 4: May 29th 2018
+
+**Today's Progress** Trying to fit all the pieces on the gameboard.
+
+**Thoughts** I learned a bunch today at the DenverScript Meetup (React fragments).  I also need to deploy this as a Github pages.   
+
+### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
 ### Day 3: May 28th 2018
 
 **Today's Progress** More templating on the gameboard.  Some minimal styling on the navbars.
