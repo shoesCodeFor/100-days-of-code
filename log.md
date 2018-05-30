@@ -100,6 +100,8 @@ https://github.com/shoesCodeFor/FarmersMarket
 
 https:/github.com/shoesCodeFor/QBOtoWoo/
 
+===
+
 ### Day 1: June 13th
 **Today's Progress:**  Started a new utility project.  QBOtoWoo is a tool I would like to create to help people sync their WooCommerce product inventory with Quickbooks Online.  Not very much progress today.  Had issues getting Composer to install on my dev environment.  I spent more time reading Composer docs than anything else today.
 
@@ -107,13 +109,15 @@ https:/github.com/shoesCodeFor/QBOtoWoo/
 
 https:/github.com/shoesCodeFor/QBOtoWoo/
 
+===
+
 ### Day 0: June 12th
 **Today's Progress:** Some updates on the first UI view of VetCalc.  Cleaned up some code for the ERMedsActivity.
 
 **Thoughts:** I have been coding everyday but not within the rules of the challenge.  Here we go again(and hopefully again and again).
 Need to change my package names.  I will have to read on how to do this without blowing up the program.  Good thing we have version control :) 
 
-
+===
 
 ## Failed Attempt 1 January 13th - February 17th 2017
 I will have to restart the challenge.  I got sucked into a work project and I have spent alot of time using tools to implement code rather than writing it :( RIP Session 1
