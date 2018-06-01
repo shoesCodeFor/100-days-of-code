@@ -1,3 +1,13 @@
+### Day 5: May 30th 2018
+
+**Today's Progress** Some mobile additionas to Rochambeau
+
+**Thoughts** Learned about using function maps in JS.  I need to worry less about perfecting project and focus more on completing them.
+
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
+
+---
+
 ### Day 4: May 29th 2018
 
 **Today's Progress** Trying to fit all the pieces on the gameboard for rock paper scissors.
