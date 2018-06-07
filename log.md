@@ -60,16 +60,16 @@
 
 ### Day 6: May 31st 2018
 
-**Today's Progress** 
+**Today's Progress** Additional game logic.  Nested object functions to track wins/losses.
 
-**Thoughts** 
+**Thoughts** Dusting off old projects help me realize how far I've come.  It also has a the opposite effect sometimes.  Sometimes I read my code and I am surprised at how professional it is.  I'm not bragging, it's actually self-deprecating.  When I see old code sometimes I am saddened by the lack of improvment.
 
-#### Link to Work: 
+#### Link to Work: https://github.com/shoesCodeFor/Rochambeau
 ---
 
 ### Day 5: May 30th 2018
 
-**Today's Progress** Some mobile additionas to Rochambeau
+**Today's Progress** Some mobile additions to Rochambeau
 
 **Thoughts** Learned about using function maps in JS.  I need to worry less about perfecting project and focus more on completing them.
 
