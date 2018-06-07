@@ -1,3 +1,72 @@
+### Day 12: June 5th 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work: 
+
+---
+
+### Day 11: June 4th 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work: 
+
+---
+
+### Day 10: June 4th 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work: 
+
+---
+
+### Day 9: June 3rd 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work: 
+
+---
+
+### Day 8: June 2nd 2018
+
+**Today's Progress**
+
+**Thoughts** 
+
+#### Link to Work:
+
+---
+
+### Day 7: June 1st 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work:
+
+----
+
+### Day 6: May 31st 2018
+
+**Today's Progress** 
+
+**Thoughts** 
+
+#### Link to Work: 
+---
+
 ### Day 5: May 30th 2018
 
 **Today's Progress** Some mobile additionas to Rochambeau
